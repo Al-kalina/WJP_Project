@@ -1,0 +1,12 @@
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\bin\Debug\Piano Almost Master.exe.config
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\bin\Debug\Piano Almost Master.exe
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\bin\Debug\Piano Almost Master.pdb
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano Almost Master.csprojAssemblyReference.cache
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano_Almost_Master.Form1.resources
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano_Almost_Master.Properties.Resources.resources
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano Almost Master.csproj.GenerateResource.cache
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano Almost Master.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano Almost Master.exe
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano Almost Master.pdb
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano_Almost_Master.song_choice.resources
+C:\Users\Majkel\Desktop\Projekt C#\Piano Almost Master\Piano Almost Master\obj\Debug\Piano_Almost_Master.Piano_Keyboard.resources
